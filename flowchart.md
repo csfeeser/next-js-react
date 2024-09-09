@@ -122,5 +122,4 @@ flowchart LR
     L3["<span style='color:black;'>Day Three</span>"]
     style L3 fill:#7FB77E
     end
-
 ```
