@@ -112,14 +112,4 @@ flowchart LR
     style R2 fill:#7FB77E
     style R3 fill:#7FB77E
     style S fill:#7FB77E
-
-    %% Legend
-    subgraph Legend
-    L1["<span style='color:black;'>Day One</span>"]
-    style L1 fill:#A1C6E7
-    L2["<span style='color:black;'>Day Two</span>"]
-    style L2 fill:#FAD02E
-    L3["<span style='color:black;'>Day Three</span>"]
-    style L3 fill:#7FB77E
-    end
 ```
